@@ -17,7 +17,12 @@ DATABASES = {
         'NAME': 'storefront3',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'Smk991230',
+        'PASSWORD': 'P@ssword',
         'CONN_MAX_AGE': 10000
     }
 }
+
+EMAIL_HOST = 'localhost'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
+EMAIL_PORT = 2525
