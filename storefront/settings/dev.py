@@ -17,8 +17,7 @@ DATABASES = {
         'NAME': 'storefront3',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'P@ssword',
-        'CONN_MAX_AGE': 10000
+        'PASSWORD': 'Smk991230',
     }
 }
 

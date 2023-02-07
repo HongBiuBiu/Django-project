@@ -24,6 +24,7 @@ whitenoise = "*"
 gunicorn = "*"
 dj-database-url = "*"
 platformdirs = "*"
+django-silk = "*"
 
 [dev-packages]
 autopep8 = "*"
